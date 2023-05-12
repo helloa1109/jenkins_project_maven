@@ -39,11 +39,11 @@ public class VoiceController {
             else if (lang.equals("en"))
                 naraVoice="djoey";
             else if (lang.equals("ja"))
-                naraVoice="dnaomi_joyful";
+                naraVoice="driko";
             else if (lang.equals("zh-CN"))
-                naraVoice="liangliang";
+                naraVoice="meimei";
             else if (lang.equals("es"))
-                naraVoice="djoey";
+                naraVoice="carmen";
 
             String postParams = "speaker="+naraVoice+"&volume=0&speed=0&pitch=0&format=mp3&text=" + text;
             con.setDoOutput(true);
