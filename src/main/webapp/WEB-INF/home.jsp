@@ -28,7 +28,7 @@
 <body>
 <h2 style="color: #50505F"><b>SangPago</b></h2>
 <div>
-    <textarea style="width: 100%;height: 120px;" class="form-control" id="msg">최고</textarea>
+    <textarea style="width: 100%;height: 120px;" class="form-control" id="msg">안녕하세요 이상혁입니다</textarea>
 </div>
 <div class="input-group" style="width: 250px;margin-left: 50px;margin-top: 10px;">
     <select id="seltrans" class="form-select">
